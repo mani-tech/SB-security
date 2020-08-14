@@ -1,0 +1,1 @@
+<h1 style="color:blue;text-align:center">Your not eligible to open this page</h1>

@@ -1,0 +1,1 @@
+<h1>Your loan has been approved</h1>
