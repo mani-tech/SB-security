@@ -27,5 +27,11 @@ public class SBIController {
 	{
 		return "denied";
 	}
+	@GetMapping("/denied123")
+	public String accessdenied123()
+	{
+		System.out.println("hello home");
+		return "denied";
+	}
 	
 }
