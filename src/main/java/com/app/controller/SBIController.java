@@ -19,6 +19,7 @@ public class SBIController {
 	@GetMapping("/balance")
 	public String balance()
 	{
+		System.out.println("hello home");
 		return "balance";
 	}
 	
